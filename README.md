@@ -19,5 +19,6 @@ Utilizo este espaço para documentar minha evolução na programação, meus pro
 ---
 
 ### 🤝 Conecte-se comigo:
-- [Meu LinkedIn](COLE_O_LINK_DO_SEU_LINKEDIN_AQUI)
-- Email: seu-email@email.com
+- Email: juliagabrielasabrina@gmail.com
+- Discord: 20071403
+- Instragam: @fagundes._ju
